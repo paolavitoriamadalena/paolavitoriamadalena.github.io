@@ -1,7 +1,7 @@
 body {
     margin:0;
     font-family: Arial, sans-serif;
-    background-color: rgb(214, 153, 255);
+    background-color: rgba(207, 164, 236, 0.616);
 }
 .inicio {
     display: flex;
