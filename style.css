@@ -68,5 +68,25 @@ body {
 
 .social a:hover {
     color: #93efff;
-    background-color:#c5acfff5;
+    background-color: #c5acfff5;
 }
+
+footer {
+    background-color: rgb(255, 194, 204);
+    color: rgb(73, 243, 255);
+    text-align: center;
+    padding: 20px;
+}
+
+footer p {
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-weight: 500;
+}
+    .sobre {
+    background-color: rgb(241, 21, 205);
+}
+    .experiencias {
+    background-color:rgb(190, 48, 233);
+    }
